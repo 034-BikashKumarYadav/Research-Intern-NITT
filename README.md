@@ -11,5 +11,5 @@
 * Learning rate reduction callback is implemented.
 * F1-score and confusion matrix are visualized.
 * Accuracy of 90% is achieved on validation and test datasets.
-* Dataset Source: https://www.tensorflow.org/datasets/catalog/colorectal_histology
-* Dataset homepage: https://zenodo.org/record/53169#.XGZemKwzbmG
+* Dataset Source: https://zenodo.org/record/53169#.XGZemKwzbmG
+  
